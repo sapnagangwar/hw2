@@ -11,7 +11,8 @@ class Main {
 
       public static void main(String args[]) {
     	  
-    	  System.out.println("adding line to check git!");
+    	  System.out.println("1:adding line to check git!");
+    	  System.out.println("2:adding line to check git!");
 
 Rectangle[] array;
             array = new Rectangle [5];

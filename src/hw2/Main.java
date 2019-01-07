@@ -10,6 +10,8 @@ package hw2;
 class Main {
 
       public static void main(String args[]) {
+    	  
+    	  System.out.println("adding line to check git!");
 
 Rectangle[] array;
             array = new Rectangle [5];
